@@ -1,6 +1,6 @@
 name: Cloudflare Pages Deploy
 description: Deploy to Cloudflare Pages with GitHub Deployment status, PR comments, and emoji reactions
-author: multiplai-tech
+author: jamessaludario
 
 inputs:
   apiToken:
