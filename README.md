@@ -8,7 +8,7 @@ Built as a drop-in replacement for `phojie/cloudflare-pages-action`.
 
 ```yaml
 - name: Deploy
-  uses: jamessaludario/cloudflare-pages-action-v1.0.0-beta.1@v1.0.0-beta.1
+  uses: jamessaludario/custom-cloudflare-pages-action@v1.0.0-beta.1
   with:
     apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
     accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
